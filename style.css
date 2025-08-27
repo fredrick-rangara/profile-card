@@ -1,5 +1,5 @@
 body {
-  background-color: antiquewhite;
+  background: linear-gradient(98deg, #2f1cff, #db5b6e);
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   justify-content: center;
   align-items: center;
@@ -10,7 +10,7 @@ body {
 .container {
   width: 300px;
   margin: 50px auto;
-  background-color: rgba(98deg, #2f1cff, #db5b6e);
+  background-color: whitesmoke;
   border-radius: 10px;
   box-shadow: 0 0 10px;
   overflow: hidden;
@@ -37,8 +37,8 @@ body {
   margin-bottom: 20px;
 }
 
-.social- {
+.social-media {
   display: flex;
   justify-content: center;
-  gap: 10px;
+  gap: 25px;
 }
